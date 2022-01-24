@@ -74,12 +74,12 @@ function changeSectionBackground() {
 function showNamesLudo() {
     let naam = ["Ludovicus", "di", "Rizzo"];
     
-    // Toon de eerste string uit 'naam' in element met ID='ludo-tussenvoegsel'
+    // Toon de eerste string uit 'naam' in element met ID='ludo-voornaam'
     // Toon de tweede string uit 'naam' in element met ID='ludo-tussenvoegsel'
     // Toon de derde string uit 'naam' in element met ID='ludo-achternaam'
 }
 
-// Roep de functie `showNameLudo` aan.
+// Roep de functie `showNamesLudo` aan.
 
 /**
  * 
@@ -116,7 +116,7 @@ function showNamesLudo() {
     // - Voor elk element in die array:
       // - Maak de tekstkleur oranje
 
-    // - de HTML elementen met class=achternaam onthoud in de variabele: 'tussenvoegsels'
+    // - de HTML elementen met class=achternaam onthoud in de variabele: 'achternamen'
     // - Voor elk element in die array:
       // - Maak de tekstkleur rood
 
@@ -153,10 +153,10 @@ function showNamesLudo() {
     //  Maak de variabel color, geef deze de waarde van de tekst-kleur
     //  Schakel tussen de variabel color
     //      Indien color 'black' is
-    //          Verander de body background color naar 'blue'
+    //          Verander de color van het element met ID=colored-text naar 'blue'
     //      Indien color 'blue' is
-    //          Verander de body background color naar 'red'
+    //          Verander de color van het element met ID=colored-text naar 'red'
     //      Indien het geen van de bovenstaande is
-    //          Verander de body background color naar 'black'
+    //          Verander de color van het element met ID=colored-text naar 'black'
 //
 // Zorg ervoor dat de functie elke 5 seconden wordt aangeroepen
