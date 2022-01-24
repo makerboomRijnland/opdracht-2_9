@@ -160,3 +160,13 @@ function showNamesLudo() {
     //          Verander de color van het element met ID=colored-text naar 'black'
 //
 // Zorg ervoor dat de functie elke 5 seconden wordt aangeroepen
+
+
+/**
+ * 
+ * OPDRACHT 10 (bonus)
+ * 
+ */
+
+// Zorg dat alle event koppelingen gebeuren nadat de pagina volledig geladen is.
+// Zorg ervoor dat alle code netjes staat uitgelijnd.
